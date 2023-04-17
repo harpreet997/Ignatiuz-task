@@ -13,7 +13,7 @@ useEffect(() => {
 
 return (
   <>
-  <h1>Product List</h1>
+  <h1>Product Management</h1>
   {data.map((item) => {
     return (
       <div key={item._id}>
