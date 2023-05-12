@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: "MyRiadPro";
+  src: local("MyRiadPro"),
+   url("./fonts/MyRiadPro/MYRIADPRO-BOLD.OTF") format("truetype");
+  font-weight: bold;
+ }

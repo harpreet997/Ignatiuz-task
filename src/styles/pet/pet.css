@@ -1,0 +1,113 @@
+* {
+    font-family: 'Myriad Web Pro', sans-serif;
+}
+
+
+.input-text-label {
+    color: #003087;
+}
+
+.form-lable-margin {
+    margin-left: 46px;
+    font-family: 'Myriad Pro';
+    font-style: normal;
+    font-weight: 600 !important;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: -0.01em;
+    color: #003087 !important;
+}
+
+.form-radio-button {
+    margin-left: 46px;
+    margin-bottom: 36px;
+}
+
+.text-area-color {
+    color: #003087;
+    margin-left: 46px;
+}
+
+.form-checkbox-container {
+    margin-left: 49px;
+    color: #003087 !important;
+}
+
+.vaccination-detail {
+    margin-left: 50px;
+    margin-top: 42px;
+    font-family: 'Myriad Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: -0.01em;
+    color: #003087;
+}
+
+.back-button {
+    box-sizing: border-box;
+    align-items: center;
+    padding: 15px 20px;
+    gap: 10px;
+    width: 74px;
+    height: 50px;
+    position: absolute;
+    background: white;
+    border: 2px solid #003087;
+    border-radius: 10px;
+    margin-left: 52px;
+}
+
+.back-button-text {
+    font-family: 'Myriad Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #003087;
+}
+
+.save-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: end;
+    padding: 0px 20px;
+    gap: 10px;
+    position: absolute;
+    width: 78px;
+    height: 50px;
+    background: #003087;
+    border-radius: 10px;
+    margin-left: 85%;
+}
+
+.save-button-text {
+    font-family: 'Myriad Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 100%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #FFFFFF;
+}
+
+.child-profile-text {
+    border: 2px dashed rgba(0, 48, 135, 0.5) !important;
+}
+
+.check-box-3 {
+    margin-left: 120px !important;
+}
+
+.check-box-4 {
+    margin-left: 155px !important;
+}
